@@ -16,8 +16,8 @@ var diceString2="dice"+dice2+".png";
 var flag1 = document.getElementById("Flag1");
 var flag2 = document.getElementById("Flag2");
 
-image1.setAttribute("src", "./images/"+diceString1);
-image2.setAttribute("src", "./images/"+diceString2);
+image1.setAttribute("src", "/images/"+diceString1);
+image2.setAttribute("src", "/images/"+diceString2);
 
 if (dice1>dice2){
            
