@@ -3,7 +3,7 @@
 -random generators and 
 -DOM manipulation
 
-***play the dice game :surfer: ***
+***play the dice game :surfer:***
 
 ### Related Links
 -[GitHub Docs Basic formating syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
