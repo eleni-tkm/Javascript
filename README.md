@@ -1,7 +1,7 @@
-## Use javascript for
+## The Use Of Javascript for:
 
--random generators and 
--DOM manipulation
+- random generators and 
+- DOM manipulation
 
 ***play the dice game :surfer:***
 
